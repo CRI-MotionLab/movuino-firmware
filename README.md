@@ -28,7 +28,7 @@ Install [CP210x USB to UART Bridge VCP Drivers](https://www.silabs.com/products/
 
 1. [Install the ESP8266 Arduino Addon](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon).
 
-2. Select the `Adafruit HUZZAH ESP8266` board in Arduino IDE.
+2. Select the `Adafruit HUZZAH ESP8266` board in Arduino IDE. ## Note : For now it works only untill ESP core V2.3.0
 
 3. Copy the content of [Arduino/libraries](https://github.com/topela/movuino.js/tree/master/Arduino/libraries) into your Arduino libraries folder. See [Where to Install your Libraries](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use/how-to-install-a-library).
 
