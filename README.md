@@ -1,6 +1,6 @@
 # Movuino firmware
 
-Firmware for the Movuino WiFi board.
+Firmware for the Movuino WiFi board. <b> Works only with ESP core V2.3.0 </b>
 
 ## Requirements
 
